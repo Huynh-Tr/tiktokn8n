@@ -1,0 +1,51 @@
+Tuyệt vời! Việc tạo Điều khoản Dịch vụ (Terms of Service - ToS) là một bước quan trọng, ngay cả khi "ứng dụng" của bạn chỉ là một quy trình tự động hóa nội bộ sử dụng n8n để tương tác với API TikTok. Điều này giúp làm rõ mục đích, giới hạn và trách nhiệm.
+Dưới đây là một mẫu nội dung cơ bản mà bạn có thể điều chỉnh cho phù hợp với trường hợp cụ thể của mình. Lưu ý rằng đây không phải là tư vấn pháp lý chuyên nghiệp. Nếu ứng dụng của bạn phức tạp, liên quan đến nhiều người dùng, hoặc xử lý dữ liệu nhạy cảm, bạn nên tham khảo ý kiến của một luật sư.
+
+Điều Khoản Dịch Vụ (Terms of Service)
+Ngày hiệu lực: [Ghi ngày bạn bắt đầu sử dụng hoặc công bố các điều khoản này, ví dụ: 31 tháng 5 năm 2025]
+Chào mừng bạn đến với [Tên Ứng Dụng/Dịch Vụ của bạn - ví dụ: "Công cụ Tự Động Hóa TikTok Nội Bộ" hoặc "N8N TikTok Workflow"]. Các Điều khoản Dịch vụ này ("Điều khoản") điều chỉnh việc bạn sử dụng dịch vụ của chúng tôi. Bằng cách truy cập hoặc sử dụng Dịch vụ, bạn đồng ý bị ràng buộc bởi các Điều khoản này.
+1. Mô Tả Dịch Vụ
+Dịch vụ của chúng tôi, [Tên Ứng Dụng/Dịch Vụ của bạn], là một [mô tả ngắn gọn chức năng – ví dụ: "quy trình làm việc tự động hóa được xây dựng bằng n8n, được thiết kế để giúp bạn quản lý và đăng tải nội dung lên tài khoản TikTok của mình thông qua API chính thức của TikTok."]. Dịch vụ này nhằm mục đích [nêu rõ mục đích chính – ví dụ: "tự động hóa việc đăng video theo lịch trình", "lấy dữ liệu phân tích cơ bản từ tài khoản TikTok của bạn"].
+2. Chấp Nhận Điều Khoản
+Bằng cách sử dụng Dịch vụ, bạn xác nhận rằng bạn đã đọc, hiểu và đồng ý bị ràng buộc bởi tất cả các điều khoản và điều kiện được nêu trong tài liệu này, cũng như Chính sách Quyền Riêng Tư của chúng tôi. Nếu bạn không đồng ý với bất kỳ phần nào của các Điều khoản này, bạn không được phép sử dụng Dịch vụ.
+Bạn cũng đồng ý tuân thủ tất cả các Điều khoản Dịch vụ, Chính sách Cộng đồng và các quy định khác do TikTok đặt ra khi sử dụng API của họ thông qua Dịch vụ này.
+3. Sử Dụng Dịch Vụ
+Tài Khoản TikTok: Để sử dụng Dịch vụ, bạn cần có một tài khoản TikTok hợp lệ và phải ủy quyền cho Dịch vụ này truy cập vào tài khoản TikTok của bạn thông qua cơ chế OAuth 2.0 do TikTok cung cấp. Bạn chịu hoàn toàn trách nhiệm về việc duy trì tính bảo mật của thông tin đăng nhập tài khoản TikTok của mình.
+Nội Dung: Bạn chịu hoàn toàn trách nhiệm về tất cả nội dung (video, mô tả, hashtag, v.v.) được tải lên hoặc quản lý thông qua Dịch vụ này. Bạn phải đảm bảo rằng bạn có tất cả các quyền cần thiết đối với nội dung đó và nội dung đó tuân thủ các chính sách của TikTok cũng như luật pháp hiện hành.
+Sử Dụng Hợp Pháp: Bạn đồng ý chỉ sử dụng Dịch vụ cho các mục đích hợp pháp và theo cách không vi phạm quyền của bất kỳ ai, hoặc hạn chế hay cản trở việc sử dụng và tận hưởng Dịch vụ của bất kỳ ai khác.
+4. Các Hoạt Động Bị Cấm
+Bạn không được phép sử dụng Dịch vụ để:
+Tham gia vào bất kỳ hoạt động nào vi phạm Điều khoản Dịch vụ hoặc Chính sách Cộng đồng của TikTok.
+Đăng tải nội dung bất hợp pháp, gây hại, đe dọa, lạm dụng, quấy rối, bôi nhọ, tục tĩu, khiêu dâm, hoặc gây khó chịu về mặt chủng tộc, sắc tộc hoặc các mặt khác.
+Vi phạm bản quyền, nhãn hiệu thương mại, bí mật kinh doanh hoặc các quyền sở hữu trí tuệ khác của bất kỳ bên nào.
+Truyền tải bất kỳ tài liệu nào có chứa vi-rút phần mềm hoặc bất kỳ mã máy tính, tệp hoặc chương trình nào khác được thiết kế để làm gián đoạn, phá hủy hoặc hạn chế chức năng của bất kỳ phần mềm1 hoặc phần cứng máy tính hoặc thiết bị viễn thông nào.
+Cố gắng truy cập trái phép vào Dịch vụ, các tài khoản khác, hệ thống máy tính hoặc mạng được kết nối với Dịch vụ, thông qua việc khai thác mật khẩu hoặc bất kỳ phương tiện nào khác.
+Sử dụng Dịch vụ theo bất kỳ cách nào có thể làm hỏng, vô hiệu hóa, quá tải hoặc làm suy yếu Dịch vụ hoặc API TikTok.
+[Thêm các hành vi bị cấm khác nếu cần thiết cho trường hợp cụ thể của bạn]
+5. Quyền Sở Hữu Trí Tuệ
+Dịch Vụ: Chúng tôi sở hữu hoặc có quyền sử dụng tất cả các quyền sở hữu trí tuệ đối với Dịch vụ của chúng tôi [nếu bạn tự phát triển các thành phần độc đáo, hãy nêu rõ. Nếu chủ yếu là cấu hình n8n, bạn có thể bỏ qua hoặc điều chỉnh phần này cho phù hợp].
+API TikTok: Bạn thừa nhận rằng Dịch vụ này sử dụng API của TikTok và tất cả các quyền sở hữu trí tuệ liên quan đến TikTok và API của nó thuộc về TikTok Inc.
+Nội Dung Của Bạn: Bạn giữ tất cả các quyền sở hữu đối với nội dung của mình mà bạn tải lên thông qua Dịch vụ.
+6. Từ Chối Bảo Đảm và Giới Hạn Trách Nhiệm
+DỊCH VỤ ĐƯỢC CUNG CẤP "NGUYÊN TRẠNG" VÀ "NHƯ HIỆN CÓ" MÀ KHÔNG CÓ BẤT KỲ BẢO ĐẢM NÀO, DÙ RÕ RÀNG HAY NGỤ Ý. CHÚNG TÔI KHÔNG BẢO ĐẢM RẰNG DỊCH VỤ SẼ KHÔNG BỊ GIÁN ĐOẠN, KHÔNG CÓ LỖI, AN TOÀN HOẶC KHÔNG CÓ VI-RÚT.
+CHÚNG TÔI SẼ KHÔNG CHỊU TRÁCH NHIỆM PHÁP LÝ CHO BẤT KỲ THIỆT HẠI GIÁN TIẾP, NGẪU NHIÊN, ĐẶC BIỆT, DO HẬU QUẢ HOẶC TRỪNG PHẠT NÀO, HOẶC BẤT KỲ TỔN THẤT LỢI NHUẬN HOẶC DOANH THU NÀO, DÙ PHÁT SINH TRỰC TIẾP HAY GIÁN TIẾP, HOẶC BẤT KỲ TỔN THẤT DỮ LIỆU, VIỆC SỬ DỤNG, UY TÍN HOẶC CÁC TỔN THẤT VÔ HÌNH KHÁC, DO: (I) VIỆC BẠN TRUY CẬP HOẶC SỬ DỤNG HOẶC KHÔNG THỂ TRUY CẬP HOẶC SỬ DỤNG DỊCH VỤ; (II) BẤT KỲ HÀNH VI HOẶC NỘI DUNG NÀO CỦA BẤT KỲ BÊN THỨ BA NÀO TRÊN DỊCH VỤ; (III) BẤT KỲ NỘI DUNG NÀO THU ĐƯỢC TỪ DỊCH VỤ; HOẶC (IV) VIỆC TRUY CẬP, SỬ DỤNG HOẶC THAY ĐỔI TRÁI PHÉP CÁC NỘI DUNG TRUYỀN TẢI HOẶC NỘI DUNG CỦA BẠN, NGAY CẢ KHI CHÚNG TÔI ĐÃ ĐƯỢC THÔNG BÁO VỀ KHẢ NĂNG XẢY RA NHỮNG THIỆT HẠI ĐÓ.
+Trách nhiệm của chúng tôi đối với bạn về bất kỳ nguyên nhân nào và bất kể hình thức hành động nào, sẽ luôn được giới hạn ở mức tối đa [nếu có, bạn có thể đặt một số tiền tượng trưng nhỏ, ví dụ: $1 USD, hoặc bỏ qua nếu đây là dịch vụ hoàn toàn nội bộ/miễn phí].
+Chúng tôi không chịu trách nhiệm về bất kỳ thay đổi, đình chỉ hoặc ngừng hoạt động nào của API TikTok.
+7. Chấm Dứt
+Chúng tôi có thể chấm dứt hoặc đình chỉ quyền truy cập của bạn vào Dịch vụ ngay lập tức, mà không cần thông báo trước hoặc chịu trách nhiệm pháp lý, vì bất kỳ lý do gì, bao gồm nhưng không giới hạn2 ở việc bạn vi phạm các Điều khoản này.3
+Khi chấm dứt, quyền sử dụng Dịch vụ của bạn sẽ ngay lập tức chấm dứt.
+8. Thay Đổi Điều Khoản
+Chúng tôi có quyền, theo quyết định riêng của mình, sửa đổi hoặc thay thế các Điều khoản này bất kỳ lúc nào. Nếu một bản sửa đổi là quan trọng, chúng tôi sẽ cố gắng cung cấp thông báo ít nhất [ví dụ: 15-30 ngày] trước khi bất kỳ điều khoản mới nào có hiệu lực. Điều gì cấu thành một thay đổi quan trọng sẽ được xác định theo quyết định riêng của chúng tôi.
+Bằng4 cách tiếp tục truy cập hoặc sử dụng Dịch vụ của chúng tôi sau khi các bản sửa đổi đó có hiệu lực, bạn đồng ý5 bị ràng buộc bởi các điều khoản đã sửa đổi. Nếu bạn không đồng ý với các điều khoản mới, vui lòng ngừng sử dụng Dịch vụ.
+9. Luật Điều Chỉnh (Tùy chọn)
+Các Điều khoản này sẽ được điều chỉnh và giải thích theo luật pháp của [Tên quốc gia hoặc tiểu bang của bạn, ví dụ: "Việt Nam"], mà không liên quan đến các xung đột về nguyên tắc luật pháp của nó. (Đối với ứng dụng nội bộ, nhỏ, bạn có thể bỏ qua phần này nếu muốn).
+10. Thông Tin Liên Hệ
+Nếu bạn có bất kỳ câu hỏi nào về các Điều khoản này, vui lòng liên hệ với chúng tôi tại:
+[Địa chỉ email của bạn hoặc phương thức liên hệ khác]
+
+Cách sử dụng mẫu này:
+Thay thế các thông tin trong dấu ngoặc vuông [] bằng thông tin cụ thể của bạn.
+Đọc kỹ từng phần và điều chỉnh cho phù hợp với chức năng và mục đích sử dụng "ứng dụng" n8n của bạn. Ví dụ, nếu bạn không lưu trữ bất kỳ dữ liệu người dùng nào ngoài những gì cần thiết cho phiên làm việc hiện tại, hãy làm rõ điều đó.
+Đảm bảo nó nhất quán với Chính sách Quyền Riêng Tư của bạn.
+Lưu trữ nó ở một nơi có thể truy cập công khai qua một URL (như đã thảo luận trước đó – GitHub Pages, Google Sites, trang web cá nhân, v.v.) để bạn có thể cung cấp liên kết này cho TikTok Developer Portal.
+Chúc bạn may mắn!
